@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "net.smartguy.tutorialmod.mixin",
+	"package": "net.myriantics.autoviewbobbing.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"AutoPerspectiveMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
