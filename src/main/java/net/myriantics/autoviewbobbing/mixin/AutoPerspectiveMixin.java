@@ -21,5 +21,4 @@ public class AutoPerspectiveMixin {
             this.options.getBobView().setValue(false);
         }
     }
-
 }
