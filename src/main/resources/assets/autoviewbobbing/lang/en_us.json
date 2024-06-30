@@ -1,0 +1,16 @@
+{
+  "autoviewbobbing.title": "AutoViewBobbing Config",
+  "autoviewbobbing.general.category": "AutoViewBobbing General Settings",
+  "autoviewbobbing.group.important_settings": "Important Settings",
+  "autoviewbobbing.group.important_settings.tooltip": "Important Settings",
+  "autoviewbobbing.important_settings.mod_enabled": "Mod Enabled:",
+  "autoviewbobbing.important_settings.mod_enabled.tooltip": "Enables/disables the entire mod",
+  "autoviewbobbing.group.general": "General Settings",
+  "autoviewbobbing.group.general.tooltip": "General Settings",
+  "autoviewbobbing.general.y_threshold_toggle": "Y Level Threshold Toggle",
+  "autoviewbobbing.general.y_threshold_toggle.tooltip": "Toggles whether mod is active based on height",
+  "autoviewbobbing.general.y_threshold": "Y Level Threshold",
+  "autoviewbobbing.general.y_threshold.tooltip": "Sets the Y level below which the mod will be active",
+  "autoviewbobbing.general.auto_fov_value": "Auto FOV Value",
+  "autoviewbobbing.general.auto_fov_value.tooltip": "Sets FOV Value activated in third person mode when mod is active"
+}

@@ -18,6 +18,9 @@
 	"entrypoints": {
 		"client": [
 			"net.myriantics.autoviewbobbing.AutoViewBobbing"
+		],
+		"modmenu": [
+			"net.myriantics.autoviewbobbing.config.ModMenuIntegration"
 		]
 	},
 	"mixins": [
